@@ -40,5 +40,8 @@ while True:
     #爱情,μ:阻力项
     #x_n[0]+=(-μ*x_o[0]-x_o[1])*dx
     #x_n[1]+=x_o[0]*dx
+    #differential equation code start
+    #some code...
+    #differential equation code end
     x_o=x_n*1
     t+=1
